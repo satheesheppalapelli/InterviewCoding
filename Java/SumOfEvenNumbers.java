@@ -3,6 +3,8 @@ Streams:
 
 Streams allow you to process data in a declarative way. 
 Here’s an example of filtering a list of integers and finding their sum.
+
+Stream API makes it easy to filter the list and compute the sum in a readable, functional way.
 */
 
 import java.util.Arrays;
