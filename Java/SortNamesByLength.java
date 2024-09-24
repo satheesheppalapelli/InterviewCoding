@@ -1,5 +1,7 @@
 /*
-Java code to implement the use a lambda Expression to sort a list of strings by length.
+Lambdas
+Lambdas are a concise way to express instances of functional interfaces. 
+Here’s an example where we use a lambda to sort a list of strings by length.
 */
 
 import java.util.Arrays;
